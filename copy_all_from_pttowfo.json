@@ -1,0 +1,43 @@
+{
+  "customButtons": [
+    {
+      "actions": [
+        {
+          "annotationField": "17",
+          "annotationValue": "18",
+          "type": "annotation"
+        },
+        {
+          "annotationField": "22",
+          "annotationValue": "24",
+          "type": "annotation"
+        },
+        {
+          "sourceFieldId": "7623",
+          "sourceFieldName": "Plant that the organism was found on",
+          "targetFieldId": "4935",
+          "targetFieldName": "Nectar / Pollen delivering plant",
+          "type": "copyObservationField"
+        },
+        {
+          "sourceFieldId": "7623",
+          "sourceFieldName": "Plant that the organism was found on",
+          "targetFieldId": "498",
+          "targetFieldName": "Nectar Plant",
+          "type": "copyObservationField"
+        }
+      ],
+      "buttonHidden": false,
+      "configurationDisabled": false,
+      "id": "1720951962763",
+      "name": "Copy All From Plant that the organism was found on",
+      "shortcut": {
+        "altKey": false,
+        "ctrlKey": false,
+        "key": "",
+        "shiftKey": false
+      }
+    }
+  ],
+  "observationFieldMap": {}
+}
